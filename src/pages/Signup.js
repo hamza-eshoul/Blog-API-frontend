@@ -25,7 +25,7 @@ const Login = () => {
     // signup POST request
     const signupUser = async () => {
       const response = await fetch(
-        "https://odin-blog-api.onrender.com/user/signup",
+        "https://odin-blog-api-rezs.onrender.com/user/signup",
         {
           method: "POST",
           headers: {

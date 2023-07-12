@@ -25,7 +25,7 @@ const Login = () => {
     // login POST request
     const loginUser = async () => {
       const response = await fetch(
-        "https://odin-blog-api.onrender.com/user/login",
+        "https://odin-blog-api-rezs.onrender.com/user/login",
         {
           method: "POST",
           headers: {

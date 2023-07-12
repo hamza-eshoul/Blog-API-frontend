@@ -16,7 +16,7 @@ const ArticlesList = () => {
   useEffect(() => {
     const fetchAllArticles = async () => {
       const response = await fetch(
-        "https://odin-blog-api.onrender.com/articles"
+        "https://odin-blog-api-rezs.onrender.com/articles"
       );
       const json = await response.json();
 

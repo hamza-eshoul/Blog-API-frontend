@@ -35,7 +35,7 @@ const Article = () => {
   useEffect(() => {
     const fetchArticle = async () => {
       const response = await fetch(
-        `https://odin-blog-api.onrender.com/${state.articleId}`
+        `https://odin-blog-api-rezs.onrender.com/${state.articleId}`
       );
       const json = await response.json();
 

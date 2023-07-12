@@ -30,7 +30,7 @@ const Homepage = () => {
   useEffect(() => {
     const fetchThreeFirstArticles = async () => {
       const response = await fetch(
-        "https://odin-blog-api.onrender.com/articles/three_first_articles"
+        "https://odin-blog-api-rezs.onrender.com/articles/three_first_articles"
       );
       const json = await response.json();
 
@@ -46,7 +46,7 @@ const Homepage = () => {
   useEffect(() => {
     const fechFiveArticles = async () => {
       const response = await fetch(
-        "https://odin-blog-api.onrender.com/articles/five_articles"
+        "https://odin-blog-api-rezs.onrender.com/articles/five_articles"
       );
       const json = await response.json();
 
