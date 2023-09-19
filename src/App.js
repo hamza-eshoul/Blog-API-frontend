@@ -5,7 +5,7 @@ import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 // components
 import Homepage from "./pages/Home/Homepage";
 import Article from "./pages/Article/Article";
-import Login from "./pages/Login";
+import Login from "./pages/LogIn";
 import Signup from "./pages/Signup";
 import ArticlesList from "./pages/ArticlesList";
 import Header from "./components/Header";
