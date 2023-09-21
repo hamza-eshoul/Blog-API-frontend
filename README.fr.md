@@ -8,7 +8,7 @@ L'objectif de ce projet est de créer une Restful API en utilisant ExpressJS des
 
 - Lien du projet - https://odin-blog-project.onrender.com/
 - Dépôt principal du projet - https://github.com/skynter/Blog-API
-- Backend dépôt du projet - https://github.com/skynter/Blog-API-backend
+- Dépôt backend du projet - https://github.com/skynter/Blog-API-backend
 
 ## Technologies Utilisées
 
